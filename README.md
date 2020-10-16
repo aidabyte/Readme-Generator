@@ -22,6 +22,10 @@ To get this project up and running follow the steps bellow.
 6. Type ‘git clone’ and then paste the URL you copied
 	- $ git clone https://github.com/aidabyte/readme-generator.git
 7. Press Enter. Your local clone will be created.
+8. open up VScode
+9. run npm i in terminal
+
+
 
 ## Usage
 1. Run node index.js
