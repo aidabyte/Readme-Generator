@@ -79,7 +79,7 @@ function init() {
     .then(function(answers) {
     let readMeInfo = generateMarkdown(answers);
     //writing the answers into the readme.txt after the user has completed their answers
-        writeToFile("Readme.txt", answers);
+        writeToFile("ReadMe1.md", answers);
     })
         
 

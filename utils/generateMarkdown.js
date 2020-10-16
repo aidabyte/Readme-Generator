@@ -11,6 +11,7 @@ function generateMarkdown(data) {
 6. License
 7. Email
 
+  ## Username: ${data.username}
 
   ## Project Descripstion : ${data.description}
 
