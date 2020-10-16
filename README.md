@@ -25,7 +25,8 @@ To get this project up and running follow the steps bellow.
 8. open up VScode
 9. run npm i in terminal
 
-
+## Video Walkthrough
+[Video Walkthrough](https://youtu.be/IJNJumqlGaU)
 
 ## Usage
 1. Run node index.js
